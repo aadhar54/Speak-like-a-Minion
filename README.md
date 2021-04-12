@@ -7,4 +7,4 @@ This is a translation app to convert english to banana language . It has been po
 You can see live demo by visiting below link -
 https://aadhar-the-minion.netlify.app/
 
-<img src ="./images/minion.jpg" height="400px" width="600px">
+<img src ="./images/minion.jpg" height="600px" width="600px">
